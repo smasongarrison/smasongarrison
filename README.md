@@ -5,7 +5,7 @@
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/User:Smasongarrison)
 
 ## &#x1f4b9; GitHub Stats
-[![Mason Garrison's GitHub stats](https://github-readme-stats.vercel.app/api?username=smasongarrison&show_icons=true&theme=cat)](https://github.com/smasongarrison/smasongarrison)
+[![Mason Garrison's GitHub stats](https://github-readme-stats.vercel.app/api?username=smasongarrison&show_icons=true&theme=vision-friendly-dark)](https://github.com/smasongarrison/smasongarrison)
 
 <!--
 **smasongarrison/smasongarrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
