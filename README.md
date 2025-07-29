@@ -1,7 +1,7 @@
 ## S. Mason Garrison
 
 [![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green)](https://orcid.org/my-orcid?orcid=0000-0002-4804-6003)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.ca/citations?user=5to21boAAAAJ&hl=en)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=5to21boAAAAJ&hl=en)
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/User:Smasongarrison)
 
 ## &#x1f4b9; GitHub Stats
